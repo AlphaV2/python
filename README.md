@@ -7,8 +7,6 @@ This repository is designed to  provide a comprehensive collection of Python pro
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Basic Programs](#basic-programs)
-- [Intermediate Programs](#intermediate-programs)
-- [Advanced Programs](#advanced-programs)
 - [Practice Questions](#practice-questions)
 - [Contributing](#contributing)
 - [License](#license)
